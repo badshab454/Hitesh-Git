@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello coder main
+=======
+hello coder in bug fix branch
+>>>>>>> bug-fix
